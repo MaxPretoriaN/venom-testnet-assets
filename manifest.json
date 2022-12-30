@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
+  "name": "TIP3 Tokens List",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 3
+  },
+  "keywords": ["ton", "venom", "tip3", "tokens"],
+  "timestamp": "2021-05-08T12:15:51.633Z",
+  "tokens": [
+    {
+      "name": "Wrapped Venom",
+      "chainId": 1000,
+      "symbol": "wVENOM",
+      "decimals": 9,
+      "address": "0:3a390db9e88649370c31e8d7d94cb23cc429b1355e9dc4d55a8913b8d739b4ea",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/wVENOM/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    }
+  ]
+}
